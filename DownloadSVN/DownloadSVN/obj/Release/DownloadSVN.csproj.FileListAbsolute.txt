@@ -1,0 +1,9 @@
+G:\Program\DownloadSVN\DownloadSVN\bin\Release\DownloadSVN.exe
+G:\Program\DownloadSVN\DownloadSVN\bin\Release\DownloadSVN.pdb
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\ResolveAssemblyReference.cache
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\DownloadSVN.MainForm.resources
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\DownloadSVN.Properties.Resources.resources
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\ResGen.read.1.tlog
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\ResGen.write.1.tlog
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\DownloadSVN.exe
+G:\Program\DownloadSVN\DownloadSVN\obj\Release\DownloadSVN.pdb
